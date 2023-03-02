@@ -10,7 +10,7 @@
 <br/> 
 
 
-- 🔭 I’m currently building next generation decentralized Metaverse VR dating game.
+- 🔭 I’m currently building [Advaya marketplace](https://advaya.io), A marketplace to swap NFT's, Auction, Launch collections and more.
 - 🌱 I’m currently learning more about solidity & rust.
 - 💬 Ask me about Ethereum, Solidity, JavaScript or any tech related stuff.
 - 📫 How to reach me: [Twitter - @sks71093](https://twitter.com/sks71093)
